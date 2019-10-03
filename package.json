@@ -27,10 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EasyGraphQL/easygraphql-load-tester"
+    "url": "https://github.com/natalia-langa/easygraphql-load-tester"
   },
   "bugs": {
-    "url": "https://github.com/EasyGraphQL/easygraphql-load-tester"
+    "url": "https://github.com/natalia-langa/easygraphql-load-tester"
+  },
+  "publishConfig": {
+    "registry": "https://push.fury.io/castingnetworks/"
   },
   "license": "MIT",
   "dependencies": {
